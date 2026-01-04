@@ -65,4 +65,4 @@ This project demonstrates the ability to:
 *Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI*
 
 
-![Detective](khiet-tam-5rFbAKh0A-A-unsplash(1).jpg)
+![Detective](detective.jpg)
